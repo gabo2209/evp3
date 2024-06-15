@@ -1,0 +1,34 @@
+#contenedor{
+    width: 75%;
+    height: 700px;
+    margin: 20px auto;
+    border: 1.5px solid blue;
+    background-color: turquoise;
+}
+#titulo{
+    text-align: center;
+}
+#resultados{
+    width: 50%;
+    height: 520px;
+    margin: auto;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: rgba(12, 90, 194, 0.324);
+    text-align: center;
+}
+#resultados2{
+    width: 45%;
+    height: 430px;
+    padding: 5px;
+    margin: auto;
+    background-color: white;
+}
+#circulo{
+    width: 40px;
+    height: 40px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    margin: 1px;
+    float: left;
+}
